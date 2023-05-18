@@ -1,4 +1,5 @@
-[![MasterHead](https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif)](https://Ashwal200.io)
+<img align="center" alt="Coding" width="600" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
+
 <h1 align="center">Hi 👋, I'm Ron Ashwal</h1>
 <h3 align="center">A passionate Software Engineer from Israel</h3>
 
